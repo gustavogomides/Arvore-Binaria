@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1427566157 source:c:\users\gustavo\desktop\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvorebinaria.h"
+
+1427566050 c:\users\gustavo\desktop\arvorebinaria\arvorebinaria.h
+
+1427566314 source:c:\users\gustavo\desktop\arvorebinaria\main.c
+	<stdio.h>
+	"arvorebinaria.h"
+
+1427912094 source:c:\users\gustavo\documents\unifei\3º período\estrutura de dados 2\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvorebinaria.h"
+
+1427907258 c:\users\gustavo\documents\unifei\3º período\estrutura de dados 2\arvorebinaria\arvorebinaria.h
+
+1427908154 source:c:\users\gustavo\documents\unifei\3º período\estrutura de dados 2\arvorebinaria\main.c
+	"arvorebinaria.h"
+	<stdio.h>
+	<stdlib.h>
+	"arvorebinaria.h"
+	"avl.h"
+	<string.h>
+
+1427912131 source:c:\users\gustavo\documents\unifei\3º período\estrutura de dados 2\arvorebinaria\avl.c
+	<stdio.h>
+	"arvorebinaria.h"
+	"avl.h"
+
+1427907325 c:\users\gustavo\documents\unifei\3º período\estrutura de dados 2\arvorebinaria\avl.h
+
